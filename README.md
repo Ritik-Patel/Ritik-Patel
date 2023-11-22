@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Data Analtyics projects<br>👯 I’m looking to collaborate on Machine Learning/AI projects<br>🌱 I’m currently learning Machine Learning and Adaptive AI<br>💬 Ask me about my work<br>⚡ Fun fact: I am a huge fan of F1 and Soccer
+🔭 I’m currently working on Data Analtyics projects<br>👯 I’m looking to collaborate on Machine Learning/AI projects<br>🌱 I’m currently learning Machine Learning and Adaptive AI<br>💬 Ask me about my work<br>⚡ Fun fact: I am a huge fan of F1 and Soccer!!
 
 
 ## 🌐 Socials:
